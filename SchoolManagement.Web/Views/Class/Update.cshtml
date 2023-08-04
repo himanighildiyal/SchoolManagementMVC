@@ -1,0 +1,38 @@
+﻿@model SchoolManagement.Models.ClassDto
+
+@{
+    ViewBag.Title = "Update";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>Update Class</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        @using (Html.BeginForm("Update", "Class", FormMethod.Post))
+        {
+            @Html.HiddenFor(x => x.ClassId)
+            <div class="row">
+                <div class="col-md-2">
+                    <label class="control-label">Class Name:</label>
+                </div>
+                <div class="col-md-10">
+                    @Html.TextBoxFor(x => x.ClassName, new { @class = "form-control", @placeholder = "Enter Class Name" })
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-10">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <br />
+                    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        }
+    </div>
+</div>

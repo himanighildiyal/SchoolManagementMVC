@@ -1,0 +1,56 @@
+﻿@model IEnumerable<SchoolManagement.Models.ClassDto>
+
+@{
+    ViewBag.Title = "Classes";
+}
+
+<div class="row">
+    <div class="col-md-10">
+        <h2>Classes</h2>
+    </div>
+    <div class="col-md-2">
+        <a href="@Url.Action("AddClass","Class")" class="btn btn-primary">Add Class</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <th>Class Name</th>
+                    <th>Created On</th>
+                    <th>Actions</th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ClassName</td>
+                        <td>@item.CreatedOn.ToString("dd/MM/yyyy")</td>
+                        <td>
+                            <a href="@Url.Action("Delete","Class",new { classId = item.ClassId })" class="btn btn-danger delete_btn">Delete</a>
+                            <a href="@Url.Action("Update","Class",new { classId = item.ClassId })" class="btn btn-warning update_btn">Update</a>
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $('.delete_btn').click(function (e) {
+                if (confirm("Are you sure you want to delete?")) {
+
+                }
+                else {
+                    e.preventDefault();
+                }
+            });
+        });
+    </script>
+}

@@ -1,0 +1,23 @@
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Services.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Services.pdb
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.csproj.AssemblyReference.cache
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.csproj.CoreCompileInputs.cache
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Services.dll.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Services.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Services.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\EntityFramework.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Data.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Models.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Data.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Data.dll.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\SchoolManagement.Models.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\EntityFramework.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.csproj.AssemblyReference.cache
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.csproj.CoreCompileInputs.cache
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.csproj.CopyComplete
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Services\obj\Debug\SchoolManagement.Services.pdb

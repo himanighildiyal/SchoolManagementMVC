@@ -1,0 +1,88 @@
+﻿@model SchoolManagement.Models.StudentDto
+
+@{
+    ViewBag.Title = "Add";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>Add Student</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        @using (Html.BeginForm("Add", "Student", FormMethod.Post))
+        {
+            <div class="row">
+                <div class="col-md-2">
+                    <label class="control-label">First Name:</label>
+                </div>
+                <div class="col-md-10">
+                    @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control", @placeholder = "Enter First Name" })
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label class="control-label">Last Name:</label>
+                </div>
+                <div class="col-md-10">
+                    @Html.TextBoxFor(x => x.LastName, new { @class = "form-control", @placeholder = "Enter Last Name" })
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label class="control-label">Class:</label>
+                </div>
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.ClassId,
+                    Model.Classes.Select(x => new SelectListItem { Text = x.ClassName, Value = x.ClassId.ToString() }),
+                    "Select",
+                    new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label class="control-label">Adress:</label>
+                </div>
+                <div class="col-md-10">
+                    @Html.TextAreaFor(x => x.Address, new { @class = "form-control", @placeholder = "Enter Address" })
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label class="control-label">State:</label>
+                </div>
+                <div class="col-md-10">
+                    @Html.TextBoxFor(x => x.State, new { @class = "form-control", @placeholder = "Enter Last Name" })
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label class="control-label">City:</label>
+                </div>
+                <div class="col-md-10">
+                    @Html.TextBoxFor(x => x.City, new { @class = "form-control", @placeholder = "Enter Last Name" })
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label class="control-label">Mobile Number:</label>
+                </div>
+                <div class="col-md-10">
+                    @Html.TextBoxFor(x => x.MobileNumber, new { @class = "form-control", @placeholder = "Enter Mobile Number" })
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-10">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <br />
+                    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        }
+    </div>
+</div>

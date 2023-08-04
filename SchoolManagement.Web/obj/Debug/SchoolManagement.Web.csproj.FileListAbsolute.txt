@@ -1,0 +1,178 @@
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Web.dll.config
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Web.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Web.pdb
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\csc.exe
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\csc.exe.config
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\csc.rsp
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\csi.exe
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\csi.exe.config
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\csi.rsp
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.AppContext.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Console.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.IO.Compression.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Net.Http.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Net.Sockets.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.ValueTuple.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\vbc.exe
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\vbc.exe.config
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\vbc.rsp
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\VBCSCompiler.exe
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\Antlr3.Runtime.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\Newtonsoft.Json.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.Helpers.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.Mvc.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.Optimization.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.Razor.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.Razor.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\WebGrease.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.Helpers.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.Mvc.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.Optimization.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.Razor.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.Razor.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\Newtonsoft.Json.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\Antlr3.Runtime.pdb
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.csproj.AssemblyReference.cache
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.csproj.CoreCompileInputs.cache
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.csproj.CopyComplete
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Web.dll.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Web.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Web.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\csc.exe
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\csc.exe.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\csc.rsp
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\csi.exe
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\csi.exe.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\csi.rsp
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.AppContext.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Console.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.IO.Compression.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Net.Http.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Net.Sockets.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.ValueTuple.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\vbc.exe
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\vbc.exe.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\vbc.rsp
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\VBCSCompiler.exe
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Antlr3.Runtime.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Newtonsoft.Json.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.Helpers.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.Mvc.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.Optimization.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.Razor.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.Razor.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\WebGrease.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.Helpers.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.Mvc.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.Optimization.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.Razor.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Web.WebPages.Razor.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Newtonsoft.Json.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Antlr3.Runtime.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.csproj.AssemblyReference.cache
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.csproj.CoreCompileInputs.cache
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.csproj.CopyComplete
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\obj\Debug\SchoolManagement.Web.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Models.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Services.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Data.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\EntityFramework.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Models.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Services.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Services.dll.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Data.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\SchoolManagement.Data.dll.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\EntityFramework.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\EntityFramework.SqlServer.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\EntityFramework.SqlServer.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Unity.Abstractions.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Unity.Container.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Unity.Mvc5.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Threading.Tasks.Extensions.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Unity.Abstractions.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Web\bin\Unity.Container.pdb

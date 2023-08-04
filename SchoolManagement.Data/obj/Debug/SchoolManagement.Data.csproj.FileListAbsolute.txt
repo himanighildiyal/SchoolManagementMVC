@@ -1,0 +1,18 @@
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Data\bin\Debug\SchoolManagement.Data.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Data\bin\Debug\SchoolManagement.Data.pdb
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.csproj.AssemblyReference.cache
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.csproj.CoreCompileInputs.cache
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.dll
+D:\Dynamic CRM\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\bin\Debug\SchoolManagement.Data.dll.config
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\bin\Debug\SchoolManagement.Data.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\bin\Debug\SchoolManagement.Data.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\bin\Debug\EntityFramework.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\bin\Debug\EntityFramework.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.csproj.CoreCompileInputs.cache
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.csproj.CopyComplete
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.dll
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.pdb
+D:\Himani\Practice\SchoolManagement\SchoolManagement.Data\obj\Debug\SchoolManagement.Data.csproj.AssemblyReference.cache
